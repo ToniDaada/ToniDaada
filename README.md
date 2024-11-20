@@ -1,4 +1,4 @@
-## Hi there 👋
+## My name is Daada Oluwatoniloba Tolualase 👋
 
 - 🔭 I’m currently working on improving myself
 - 🌱 I’m currently learning JavaScript
