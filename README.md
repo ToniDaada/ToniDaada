@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning JavaScript
 - 😄 Pronouns: him
 
-- 📫 How to reach me:[instagram] (https://www.instagram.com/)
-                      [mail]tonidaada@gmail.com
+- 📫 How to reach me: https://www.instagram.com/oluwatoni.daada/
+                      tonidaada@gmail.com
                      
 
 <!--
