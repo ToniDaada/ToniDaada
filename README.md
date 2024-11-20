@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on improving myself
+- 🌱 I’m currently learning JavaScript
+- 😄 Pronouns: him
+
+- 📫 How to reach me:[instagram] (https://www.instagram.com/)
+                      [mail]tonidaada@gmail.com
+                     
+
 <!--
 **ToniDaada/ToniDaada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
