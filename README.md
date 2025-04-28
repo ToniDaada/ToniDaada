@@ -1,4 +1,4 @@
-## My name is Daada Oluwatoniloba Toluwalase 👋
+a## My name is Daada Oluwatoniloba Toluwalase 👋
 
 - 🔭 I’m currently working on improving myself
 - 🌱 I’m currently learning JavaScript
@@ -8,7 +8,7 @@
                       tonidaada@gmail.com
 
  [![Toni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToniDaada)](https://github.com/ToniDaada/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToniDaada&layout=compact)](https://github.com/ToniDaada/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToniDaada&layout=vertical)](https://github.com/ToniDaada/github-readme-stats)
 
 <!--
 **ToniDaada/ToniDaada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
