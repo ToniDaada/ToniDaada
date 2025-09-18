@@ -8,6 +8,7 @@
                       tonidaada@gmail.com
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToniDaada&layout=compact)](https://github.com/ToniDaada/github-readme-stats)
+ [![Oluwatoniloba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToniDaada)](https://github.com/ToniDaada/github-readme-stats)
 
 <!--
  [![Toni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToniDaada)](https://github.com/ToniDaada/github-readme-stats)
