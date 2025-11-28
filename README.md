@@ -1,7 +1,6 @@
  My name is Daada Oluwatoniloba Toluwalase 👋
 
-- 🔭 I’m currently working on improving myself
-- [x] 🌱 I’m currently learning Typescript 
+- 🔭 I’m currently working on improving myself 
 - [x] 💻 I’m currently learning Next js
 - 😄 Pronouns: him
 
