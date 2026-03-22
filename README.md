@@ -1,7 +1,7 @@
  My name is Daada Oluwatoniloba Toluwalase 👋
 
 - 🔭 I’m currently working on improving myself 
-- [x] 💻 I’m currently learning Next js
+- [x] 💻 I’m currently learning Node
 - 😄 Pronouns: him
 
 - 📫 How to reach me: https://www.instagram.com/oluwatoni.daada/
